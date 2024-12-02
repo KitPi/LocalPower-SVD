@@ -1,11 +1,6 @@
 # LocalPower-SVD
 Implementation and analysis of of methods for distributed/parallel Singular Value Decomposition using local power iteration. 
-distributed/parallel SVD [[2002.08014v4.pdf]]
-
-# Todo
-- [ ] [[CSIL labs]]
-- [ ] https://coursys.sfu.ca/2021fa-cmpt-470-d1/pages/Docker
-- [ ] https://ieeexplore.ieee.org/document/7868429 https://github.com/NLKNguyen/alpine-mpich/wiki/Multi-Host-Orchestration
+distributed/parallel SVD 2002.08014v4.pdf
 
 ## Computation Time
  **(M workers vs. P iterations) vs. Computation Time**
