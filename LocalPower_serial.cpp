@@ -1,9 +1,5 @@
 #include <Eigen/Dense>
 #include <iostream>
-#include <mpi.h>
-
-using namespace Eigen;
-using namespace std;
 
 MatrixXd GS_Ortho(const MatrixXd& A) {
     int m = A.rows();
@@ -22,20 +18,22 @@ MatrixXd GS_Ortho(const MatrixXd& A) {
 }
 
 int main () {
-
-    //Initiatlise processes
-    MPI_Init(NULL, NULL);
-    
-    int world_size;
-    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
-    int world_rank;
-    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
-
     // Initialise matrix A
     MatrixXd A;
+
+    // Number of singular values to approximate
+    int k = 5;
 
     // start global timer
     timer t1;
     t1.start();
 
+    // Compute the SVD decomposition
+    JacobiSVD<MatrixXd> svd(A, ComputeThinU | ComputeThinV);
+
+    // Compute the truncated SVD matrix: A_k: O(n^2 k)
+    MatrixXd U_k = svd.matrixU().leftCols(k);
+    MatrixXd S_k = svd.singularValues().head(k).asDiagonal();
+    MatrixXd V_kT = svd.MatrixV().leftCols(k).transpose();
+    MatrixXd A_k = U_k * S_k * V_kT;
 }
