@@ -1,6 +1,6 @@
 # LocalPower-SVD
 Implementation and analysis of of methods for distributed/parallel Singular Value Decomposition using local power iteration. 
-distributed/parallel SVD 2002.08014v4.pdf
+distributed/parallel SVD [2002.08014v4.pdf]
 
 ## Computation Time
  **(M workers vs. P iterations) vs. Computation Time**
