@@ -24,7 +24,7 @@ MatrixXd GS_Ortho(const MatrixXd& A) {
 CustomBarrier barrier1;
 CustomBarrier barrier2;
 
-void LocalPower(MatrixXd* A, MatriXd* Y, uint p, uint T, uint start, uint end) {
+void LocalPower(MatrixXd* A, MatrixXd* Y, uint p, uint T, uint start, uint end) {
     MatrixXd A_i =A->cols(start, end);
     MatrixXd Y_i =Y->cols(start, end);
 
