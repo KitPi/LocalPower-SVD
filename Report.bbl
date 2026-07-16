@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{covertype_31}
+Jock Blackard.
+\newblock {Covertype}.
+\newblock UCI Machine Learning Repository, 1998.
+\newblock {DOI}: https://doi.org/10.24432/C50K5N.
+
+\bibitem{eigen}
+Eigen Contributors.
+\newblock Eigen c++ library documentation, 2021.
+\newblock Accessed: 2024-12-05.
+
+\bibitem{cppreference_thread}
+{cppreference.com contributors}.
+\newblock std::thread - cppreference.com, 2024.
+\newblock Accessed: 2024-12-05.
+
+\bibitem{li2021communicationefficientdistributedsvdlocal}
+Xiang Li, Shusen Wang, Kun Chen, and Zhihua Zhang.
+\newblock Communication-efficient distributed svd via local power iterations,
+  2021.
+
+\end{thebibliography}

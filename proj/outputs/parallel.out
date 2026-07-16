@@ -1,0 +1,396 @@
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.180460
+1, 7.123158
+2, 7.167854
+3, 7.118598
+4, 7.140199
+5, 7.143988
+6, 7.162956
+7, 7.116784
+Total time including communication intervals:
+12.698979
+Error: 3.903987
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.092344
+1, 7.105995
+2, 7.101041
+3, 7.112930
+4, 7.106960
+5, 7.095158
+6, 7.090345
+7, 7.051938
+Total time including communication intervals:
+12.405509
+Error: 4.803333
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.129195
+1, 7.113393
+2, 7.168909
+3, 7.099507
+4, 7.135623
+5, 7.163991
+6, 7.216067
+7, 7.147559
+Total time including communication intervals:
+12.385849
+Error: 2.034573
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.073924
+1, 6.093372
+2, 6.052142
+3, 6.048313
+4, 6.128475
+5, 6.090325
+6, 6.054544
+7, 6.064748
+Total time including communication intervals:
+12.492632
+Error: 3.466272
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.220701
+1, 6.124953
+2, 6.187047
+3, 6.176479
+4, 6.252380
+5, 6.203831
+6, 6.166507
+7, 6.155112
+Total time including communication intervals:
+12.639908
+Error: 2.105518
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.114890
+1, 6.048890
+2, 6.051396
+3, 6.053648
+4, 6.144230
+5, 6.140906
+6, 6.109559
+7, 6.101336
+Total time including communication intervals:
+12.541922
+Error: 3.968161
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 3.928773
+1, 3.883654
+2, 3.689471
+3, 3.858977
+4, 3.919036
+5, 3.919117
+6, 3.822211
+7, 3.819650
+Total time including communication intervals:
+12.512516
+Error: 4.004811
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 3.940109
+1, 3.887126
+2, 3.908632
+3, 3.816805
+4, 3.893132
+5, 4.002968
+6, 3.975829
+7, 3.876862
+Total time including communication intervals:
+12.534753
+Error: 3.476221
+
+Number of Threads : 8
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 3.887181
+1, 3.985340
+2, 3.779180
+3, 3.770158
+4, 3.911985
+5, 3.735990
+6, 3.869341
+7, 3.790968
+Total time including communication intervals:
+12.481210
+Error: 3.967221
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.450447
+1, 7.369457
+2, 7.395994
+3, 7.321440
+Total time including communication intervals:
+12.598219
+Error: 5.240831
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.058560
+1, 6.974118
+2, 7.090053
+3, 7.072890
+Total time including communication intervals:
+12.198278
+Error: 3.469363
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.812719
+1, 6.863875
+2, 6.834165
+3, 6.864110
+Total time including communication intervals:
+11.654354
+Error: 4.885271
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.233904
+1, 6.213748
+2, 6.179499
+3, 6.171969
+Total time including communication intervals:
+12.468846
+Error: 4.456848
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.132651
+1, 6.155266
+2, 6.231182
+3, 6.118624
+Total time including communication intervals:
+12.616949
+Error: 5.545054
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.053399
+1, 6.129081
+2, 6.117030
+3, 6.059388
+Total time including communication intervals:
+12.249655
+Error: 4.004977
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 4.185269
+1, 4.199118
+2, 4.176908
+3, 4.114683
+Total time including communication intervals:
+12.612254
+Error: 4.014522
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 3.875796
+1, 4.084112
+2, 3.971818
+3, 3.884018
+Total time including communication intervals:
+12.691376
+Error: 4.395452
+
+Number of Threads : 4
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 4.068679
+1, 4.170994
+2, 4.137981
+3, 4.159279
+Total time including communication intervals:
+12.613967
+Error: 4.451043
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.528904
+1, 7.526565
+Total time including communication intervals:
+12.605390
+Error: 4.467071
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.513568
+1, 7.546080
+Total time including communication intervals:
+12.646483
+Error: 3.999951
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 8
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 7.535716
+1, 7.533846
+Total time including communication intervals:
+12.630113
+Error: 4.137940
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.502315
+1, 6.505376
+Total time including communication intervals:
+12.602628
+Error: 4.888361
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.496741
+1, 6.504987
+Total time including communication intervals:
+12.584165
+Error: 4.000683
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 4
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 6.514278
+1, 6.533267
+Total time including communication intervals:
+12.593535
+Error: 4.011795
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 4.269126
+1, 4.248817
+Total time including communication intervals:
+12.666469
+Error: 4.157087
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 4.247656
+1, 4.234483
+Total time including communication intervals:
+12.596064
+Error: 4.469730
+
+Number of Threads : 2
+Total iterations : 16
+Power iterations: 2
+Rank: 8
+CSV file: /home/kpeer/CMPT_431/LocalPower-SVD/data/covtype.csv
+Cumulative computation time between communication intervals:
+0, 4.252554
+1, 4.240234
+Total time including communication intervals:
+12.597795
+Error: 4.648328
+
